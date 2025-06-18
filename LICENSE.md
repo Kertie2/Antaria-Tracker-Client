@@ -39,11 +39,28 @@ En cas de résiliation, vous vous engagez à :
 
 ---
 
-### 4. Absence de Garantie
+### 4. Confidentialité et Collecte de Données
+
+**Le logiciel Antaria Tracker ne collecte ni ne stocke aucune donnée personnelle.**  
+Toutes les communications et données transitent directement entre l'application et le serveur que vous configurez.  
+Aucune information n’est transmise à Antaria ou à un tiers.
+
+---
+
+### 5. Absence de Garantie
 
 LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. EN AUCUN CAS, LES AUTEURS OU LES DÉTENTEURS DE DROITS D'AUTEUR NE SERONT RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE SOIT DANS LE CADRE D'UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, HORS DE OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES OPÉRATIONS DANS LE LOGICIEL.
 
 ---
 
-En installant, copiant ou utilisant ce Logiciel, vous reconnaissez avoir lu, compris et accepté les termes de cette licence.
+### 6. Droit Applicable et Juridiction Compétente
 
+La présente licence est régie par le **droit français**, sans tenir compte des règles de conflit de lois.  
+En cas de litige, compétence exclusive est attribuée aux juridictions françaises compétentes.
+
+Cette clause s’applique quel que soit le pays d’installation ou d’utilisation du Logiciel.
+
+
+---
+
+En installant, copiant ou utilisant ce Logiciel, vous reconnaissez avoir lu, compris et accepté les termes de cette licence.
